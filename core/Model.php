@@ -1,0 +1,6 @@
+<?php
+
+//ESSA ESTRUTURA ESTÁ CONECTADA DIRETO COM ELOQUENT
+class Model {
+   
+}

@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/",
+            "src\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/database": "^10.18"
+    }
+}
